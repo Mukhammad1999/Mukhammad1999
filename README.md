@@ -8,9 +8,9 @@ I found myself as quite motivated and proactive engineer. My motto is: "Do it fo
 
 * Flutter       🌟🌟🌟🌟⭐
 * Kotlin, Java  🌟🌟🌟🌟⭐
-* Python(Django)🌟🌟⭐⭐⭐
+* Python(Django)🌟🌟🌟⭐⭐
 * PHP(Laravel)  🌟🌟⭐⭐⭐
-* C/C++         🌟🌟🌟⭐⭐
+* C/C++         🌟🌟⭐⭐⭐
 -------------------
 
 #### Experienced at:
