@@ -20,10 +20,11 @@ I found myself as quite motivated and proactive engineer. My motto is: "Do it fo
 5. REST API - Kotlin/Flutter
 6. Git
 7. Flutter Desktop/Web.
-9. Linux,GNU
+9. Linux, GNU
 10. Python MVT (Made a backend using Django)
 11. PHP MVC (High School projects on Laravel)
-
+12. TypeScript(CLoud Functions for Firebase Project)
+12. HTML/CSS.
 #### Soft Skills:  
 1. Responsibility  
 2. Reliability 
