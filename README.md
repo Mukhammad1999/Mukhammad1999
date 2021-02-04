@@ -16,7 +16,7 @@ I found myself as quite motivated and proactive engineer. My motto is: "Do it fo
 #### Experienced at:
 1. Provider pattern, SQFlite, Isolates, Stream, State Management - Flutter 
 2. MVVM pattern, Kotlin Coroutines, Room Database - Kotlin
-4. Firebase(Firestore, Firestorage, Firefunctions, Push notifications)
+4. Firebase(Firestore, Firestorage, Cloud Functions, Push notifications, FCM)
 5. REST API - Kotlin/Flutter
 6. Git
 7. Flutter Desktop/Web.
@@ -35,7 +35,9 @@ I found myself as quite motivated and proactive engineer. My motto is: "Do it fo
 writer. 
 2. Russian – Native Language.  
 3. Uzbek – Native Language
-
+-------------------------
+- 🔭 I’m currently working on GROAD app for GWE Logistics company. (https://apps.apple.com/us/app/groad/id1550278279)
+------------------------
 📫 How to reach me: 
   * [Telegram](https://t.me/Yourtoughmango).
   * +998903163696
@@ -52,7 +54,7 @@ writer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
