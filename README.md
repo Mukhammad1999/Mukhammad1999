@@ -38,6 +38,7 @@ writer.
 3. Uzbek – Native Language
 -------------------------
 - 🔭 I’m currently working on GROAD app for GWE Logistics company. (https://apps.apple.com/us/app/groad/id1550278279)
+- - 🔭 I’m currently working on Mock Up Editor for clothes on flutter 
 ------------------------
 📫 How to reach me: 
   * [Telegram](https://t.me/Yourtoughmango).
