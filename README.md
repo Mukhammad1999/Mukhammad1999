@@ -21,14 +21,14 @@ I found myself as quite motivated and proactive engineer. My motto is: "Do it fo
 6. Git
 7. Flutter Desktop/Web.
 9. Linux, GNU
-10. Python MVT (Made a backend using Django)
+10. Python MVT (Made a backend using Django for an online shop)
 11. PHP MVC (High School projects on Laravel)
 12. TypeScript(CLoud Functions for Firebase Project)
 12. HTML/CSS.
 #### Soft Skills:  
 1. Responsibility  
 2. Reliability 
-3.  Creativity 
+3. Creativity 
 4. Sociability.
 ------------
 #### Speaking Languages:  
@@ -38,7 +38,10 @@ writer.
 3. Uzbek – Native Language
 -------------------------
 - 🔭 I’m currently working on GROAD app for GWE Logistics company. (https://apps.apple.com/us/app/groad/id1550278279)
-- - 🔭 I’m currently working on Mock Up Editor for clothes on flutter 
+-  🔭 I’m currently working on Mock Up Editor for clothes on flutter 
+-  🌱 I’m currently learning Unity game development engine to create AR based apps
+-  - ⚡ Fun fact: I wanted to become a doctor! And know my clients are ... computers)
+
 ------------------------
 📫 How to reach me: 
   * [Telegram](https://t.me/Yourtoughmango).
@@ -57,7 +60,7 @@ writer.
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
