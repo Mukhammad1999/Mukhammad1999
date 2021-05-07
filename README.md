@@ -14,7 +14,7 @@ I found myself as quite motivated and proactive engineer. My motto is: "Do it fo
 -------------------
 
 #### Experienced at:
-1. Provider pattern, SQFlite, Isolates, Stream, State Management - Flutter 
+1. Provider pattern, SQFlite, Bloc, Stream, State Management - Flutter 
 2. MVVM pattern, Kotlin Coroutines, Room Database - Kotlin
 4. Firebase(Firestore, Firestorage, Cloud Functions, Push notifications, FCM)
 5. REST API - Kotlin/Flutter
