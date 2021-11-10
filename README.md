@@ -1,7 +1,7 @@
 ### WOW! You found me. Or i found you) 👋
 
-## My name is Rustamkhonov Mukhammad-Rakhimkhon. I am a mobile developer with proper knowledge of Back-end 👌. 
-I found myself as quite motivated and proactive engineer. My motto is: "Do it for people". 
+## My name is Rustamkhonov Mukhammad-Rakhimkhon. I am a mobile developer. 
+I found myself as a quite motivated and proactive engineer. My motto is: "Do for people". 
 
 ----------------------------------------
 
@@ -33,7 +33,6 @@ writer.
 -------------------------
 - 🔭 I’m currently working on GROAD app for GWE Logistics company. (https://apps.apple.com/us/app/groad/id1550278279)
 -  🔭 I’m currently working on Mock Up Editor for clothes on flutter 
--  🌱 I’m currently learning Unity game development engine to create AR based apps
 -  - ⚡ Fun fact: I wanted to become a doctor! And know my clients are ... computers)
 
 ------------------------
