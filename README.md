@@ -4,13 +4,7 @@
 I found myself as quite motivated and proactive engineer. My motto is: "Do it for people, not for "tick" mark". 
 
 ----------------------------------------
-#### Hard skills:
 
-* Flutter       🌟🌟🌟🌟⭐
-* Kotlin, Java  🌟🌟🌟🌟⭐
-* Python(Django)🌟🌟🌟⭐⭐
-* PHP(Laravel)  🌟🌟⭐⭐⭐
-* C/C++         🌟🌟⭐⭐⭐
 -------------------
 
 #### Experienced at:
