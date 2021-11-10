@@ -1,7 +1,7 @@
 ### WOW! You found me. Or i found you) 👋
 
 ## My name is Rustamkhonov Mukhammad-Rakhimkhon. I am a mobile developer with proper knowledge of Back-end 👌. 
-I found myself as quite motivated and proactive engineer. My motto is: "Do it for people, not for "tick" mark". 
+I found myself as quite motivated and proactive engineer. My motto is: "Do it for people". 
 
 ----------------------------------------
 
